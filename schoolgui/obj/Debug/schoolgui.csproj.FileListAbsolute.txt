@@ -1,0 +1,10 @@
+C:\workspace\school-GUI.NET\schoolgui\bin\Debug\schoolgui.exe.config
+C:\workspace\school-GUI.NET\schoolgui\bin\Debug\schoolgui.exe
+C:\workspace\school-GUI.NET\schoolgui\bin\Debug\schoolgui.pdb
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.csprojAssemblyReference.cache
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.FormUser.resources
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.Properties.Resources.resources
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.csproj.GenerateResource.cache
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.csproj.CoreCompileInputs.cache
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.exe
+C:\workspace\school-GUI.NET\schoolgui\obj\Debug\schoolgui.pdb
